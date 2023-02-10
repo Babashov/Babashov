@@ -19,10 +19,10 @@
       <br/>
       <a href="https://www.linkedin.com/in/babashov-mahammad/" target="blank"><img align="center"
          src="linkedin.svg"
-         alt="babashov" height="30"/></a>
+         alt="linkedin" height="30"/></a>
       <a href="mailto:babashov1991@gmail.com" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="babashov" height="30"/></a>
+         src="gmail.svg"
+         alt="gmail" height="30"/></a>
     </p>
   </samp>
 </div>
